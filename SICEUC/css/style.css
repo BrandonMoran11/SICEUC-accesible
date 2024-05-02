@@ -38,3 +38,6 @@ html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
+input{
+    border: #000000;
+}
